@@ -160,3 +160,33 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+openai/tutorials/meeting_minutes_whisper/Transcript-Lossy.txt
+openai/tutorials/meeting_minutes_whisper/Transcript-2.txt
+openai/tutorials/meeting_minutes_whisper/Transcript-1.txt
+openai/tutorials/meeting_minutes_whisper/Section-8.wav
+openai/tutorials/meeting_minutes_whisper/Section-8.mp3
+openai/tutorials/meeting_minutes_whisper/Section-7.wav
+openai/tutorials/meeting_minutes_whisper/Section-7.mp3
+openai/tutorials/meeting_minutes_whisper/Section-6.wav
+openai/tutorials/meeting_minutes_whisper/Section-6.mp3
+openai/tutorials/meeting_minutes_whisper/Section-5.wav
+openai/tutorials/meeting_minutes_whisper/Section-5.mp3
+openai/tutorials/meeting_minutes_whisper/Section-4.wav
+openai/tutorials/meeting_minutes_whisper/Section-4.mp3
+openai/tutorials/meeting_minutes_whisper/Section-3.wav
+openai/tutorials/meeting_minutes_whisper/Section-3.mp3
+openai/tutorials/meeting_minutes_whisper/Section-2.wav
+openai/tutorials/meeting_minutes_whisper/Section-2.mp3
+openai/tutorials/meeting_minutes_whisper/Section-1.wav
+openai/tutorials/meeting_minutes_whisper/Section-1.mp3
+openai/tutorials/meeting_minutes_whisper/Original.mp3
+openai/tutorials/meeting_minutes_whisper/meeting_minutes.docx
+openai/tutorials/meeting_minutes_whisper/Meeting.mp3
+openai/tutorials/meeting_minutes_whisper/Meeting-lossy.mp3
+openai/tutorials/meeting_minutes_whisper/key_points.txt
+openai/tutorials/meeting_minutes_whisper/action_items.txt
+openai/tutorials/meeting_minutes_whisper/abstract_summary.txt
+sentiment.txt
+abstract_summary.txt
+action_items.txt
+key_points.txt

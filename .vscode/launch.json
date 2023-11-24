@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+           "name": "Python: Current File",
+           "type": "python",
+           "request": "launch",
+           "program": "${file}",
+           "pythonPath": "${workspaceFolder}/openai-env/bin/python",
+           "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: Debug OpenAI Tutorial",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/openai/tutorials/meeting_minutes_whisper/tutorial_whisper.py",
+            "console": "integratedTerminal",
+            "pythonPath": "${workspaceFolder}/openai/openai-env/bin/python",
+            "cwd": "${workspaceFolder}",
+            "envFile": "${workspaceFolder}/openai/.env"
+        }
+    ]
+}
